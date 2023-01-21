@@ -1,0 +1,49 @@
+html {
+  background-color: gray;
+  font-size: 20px;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+body {
+  width: 700px;
+  margin: 0 auto;
+  background-color: darkgray;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+img[src="images/my-photo.jpg"] {
+  width: 550px;
+  display: block;
+  margin: 0 auto;
+}
+
+img[src="images/icon-human.png"] {
+  width: 550px;
+  display: block;
+  margin: 0 auto;
+}
+
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: rgb(66, 66, 66);
+  text-shadow: 3px 1px 1px black;
+}
+
+h2,li {
+  font-size: 19px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+a:hover {
+  color: darkgreen;
+}
